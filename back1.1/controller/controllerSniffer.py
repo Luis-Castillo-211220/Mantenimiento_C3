@@ -196,7 +196,7 @@ def send_file_by_email(file_path, email_to, email_from, email_subject):
     email_server = 'smtp.gmail.com'
     email_port = 587
     email_username = '211105@ids.upchiapas.edu.mx'
-    email_password = '8t4jh1xZ6h139'
+    email_password = ''
 
 
     # Crea el objeto MIMEMultipart
